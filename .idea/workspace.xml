@@ -19,7 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="098cfb4c-265f-4503-b95e-2b428d0a58af" name="Default Changelist" comment="" />
+    <list default="true" id="098cfb4c-265f-4503-b95e-2b428d0a58af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BodyMassIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChangeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temparature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemperatureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventrory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS110/pay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS110/pay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,18 +66,39 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.RaceTrack">
-    <configuration name="NameMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NameMaker" />
+  <component name="RunManager" selected="Application.TemperatureDemo">
+    <configuration name="Item" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Item" />
       <module name="CS110" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RaceTrack" />
+    <configuration name="RectangleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleDemo" />
+      <module name="CS110" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemperatureDemo" />
+      <module name="CS110" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSeconds" />
+      <module name="CS110" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pay" />
       <module name="CS110" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,8 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RaceTrack" />
-        <item itemvalue="Application.NameMaker" />
+        <item itemvalue="Application.TemperatureDemo" />
+        <item itemvalue="Application.RectangleDemo" />
+        <item itemvalue="Application.pay" />
+        <item itemvalue="Application.Item" />
+        <item itemvalue="Application.TestSeconds" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +125,8 @@
       <option name="presentableId" value="Default" />
       <updated>1595361983296</updated>
       <workItem from="1595361992526" duration="1000" />
-      <workItem from="1595362238005" duration="18835000" />
+      <workItem from="1595362238005" duration="33071000" />
+      <workItem from="1596044619227" duration="50232000" />
     </task>
     <servers />
   </component>
@@ -105,31 +143,82 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="178" key="GridCell.Tab.0.bottom" timestamp="1595462742991">
+    <state x="798" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596561506832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595462742991" />
-    <state width="637" height="178" key="GridCell.Tab.0.center" timestamp="1595462742990">
+    <state x="798" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596561506832" />
+    <state width="1323" height="223" key="GridCell.Tab.-1.bottom" timestamp="1596062747520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595462742990" />
-    <state width="637" height="178" key="GridCell.Tab.0.left" timestamp="1595462742990">
+    <state width="1323" height="223" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596062747520" />
+    <state width="1323" height="223" key="GridCell.Tab.-1.center" timestamp="1596062747520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595462742990" />
-    <state width="637" height="178" key="GridCell.Tab.0.right" timestamp="1595462742990">
+    <state width="1323" height="223" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1596062747520" />
+    <state width="1323" height="223" key="GridCell.Tab.-1.left" timestamp="1596062747520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595462742990" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1595363270974">
+    <state width="1323" height="223" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1596062747520" />
+    <state width="1323" height="223" key="GridCell.Tab.-1.right" timestamp="1596062747520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595363270974" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595369275748">
+    <state width="1323" height="223" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1596062747520" />
+    <state width="755" height="245" key="GridCell.Tab.0.bottom" timestamp="1596572676416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595369275748" />
+    <state width="755" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
+    <state width="755" height="245" key="GridCell.Tab.0.center" timestamp="1596572676416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="755" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
+    <state width="755" height="245" key="GridCell.Tab.0.left" timestamp="1596572676416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="755" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
+    <state width="755" height="245" key="GridCell.Tab.0.right" timestamp="1596572676416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="755" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596062802962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1596062802962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1596062802962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1596062802962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1596484116609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596484116609" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596567034185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596567034185" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Temperature.java</url>
+          <line>9</line>
+          <properties class="Temperature" method="setDegreesFromCelsius">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

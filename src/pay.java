@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 public class pay
@@ -11,14 +12,14 @@ public class pay
             double grossPay;
 
             // Create a Scanner object
-            Scanner keyboard = new Scanner(System.in);
+            //Scanner keyboard = new Scanner(System.in);
 
             // Get the hours worked and the hourly pay rate
 
             System.out.print("How many hours did you work? ");
-            double hours = keyboard.nextDouble();
+            double hours = Double.parseDouble(JOptionPane.showInputDialog("How many hours did you work"))/*keyboard.nextDouble()*/;
             System.out.print("How much do you get paid per hour? ");
-            hourlyPayRate = keyboard.nextDouble();
+            hourlyPayRate = Double.parseDouble(JOptionPane.showInputDialog("How much do you get paid per hour"))/*keyboard.nextDouble()*/;
 
             // Calculate gross pay
             if (hours <= 40)
