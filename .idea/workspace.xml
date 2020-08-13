@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="098cfb4c-265f-4503-b95e-2b428d0a58af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BodyMassIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChangeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectangleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temparature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemperatureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inventrory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShippingCharges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShippingChargesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperaturee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WindowsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS110/pay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS110/pay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temparature.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -69,15 +68,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.TemperatureDemo">
-    <configuration name="Item" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Item" />
+    <configuration name="OptionPaneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionPaneExample" />
       <module name="CS110" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RectangleDemo" />
+    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Salary" />
+      <module name="CS110" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShippingChargesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShippingChargesDemo" />
       <module name="CS110" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,15 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestSeconds" />
-      <module name="CS110" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pay" />
+    <configuration name="WindowsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WindowsDemo" />
       <module name="CS110" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,10 +106,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TemperatureDemo" />
-        <item itemvalue="Application.RectangleDemo" />
-        <item itemvalue="Application.pay" />
-        <item itemvalue="Application.Item" />
-        <item itemvalue="Application.TestSeconds" />
+        <item itemvalue="Application.Salary" />
+        <item itemvalue="Application.WindowsDemo" />
+        <item itemvalue="Application.OptionPaneExample" />
+        <item itemvalue="Application.ShippingChargesDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +125,10 @@
       <updated>1595361983296</updated>
       <workItem from="1595361992526" duration="1000" />
       <workItem from="1595362238005" duration="33071000" />
-      <workItem from="1596044619227" duration="50232000" />
+      <workItem from="1596044619227" duration="50790000" />
+      <workItem from="1596574361839" duration="11741000" />
+      <workItem from="1597080374588" duration="21027000" />
+      <workItem from="1597253493472" duration="17264000" />
     </task>
     <servers />
   </component>
@@ -146,6 +148,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="739" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597085880782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="739" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597085880782" />
     <state x="798" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596561506832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -166,46 +172,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1596062747520" />
-    <state width="755" height="245" key="GridCell.Tab.0.bottom" timestamp="1596572676416">
+    <state width="639" height="215" key="GridCell.Tab.0.bottom" timestamp="1597344548027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="755" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
-    <state width="755" height="245" key="GridCell.Tab.0.center" timestamp="1596572676416">
+    <state width="639" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597344548027" />
+    <state width="639" height="215" key="GridCell.Tab.0.center" timestamp="1597344548027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="755" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
-    <state width="755" height="245" key="GridCell.Tab.0.left" timestamp="1596572676416">
+    <state width="639" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597344548027" />
+    <state width="639" height="215" key="GridCell.Tab.0.left" timestamp="1597344548027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="755" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
-    <state width="755" height="245" key="GridCell.Tab.0.right" timestamp="1596572676416">
+    <state width="639" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597344548027" />
+    <state width="639" height="215" key="GridCell.Tab.0.right" timestamp="1597344548027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="755" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596572676416" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596062802962">
+    <state width="639" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597344548027" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1597266539326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1596062802962">
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597266539326" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1597266539326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1596062802962">
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597266539326" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1597266539325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1596062802962">
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597266539325" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1597266539326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596062802962" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597266539326" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1596484116609">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596484116609" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596567034185">
+    <state x="436" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597266290332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596567034185" />
+    <state x="436" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1597266290332" />
+    <state x="0" y="0" width="1339" height="716" key="dock-window-1" timestamp="1597171318634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1339" height="716" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1597171318634" />
+    <state x="665" y="164" key="run.anything.popup" timestamp="1597093034686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="665" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597093034686" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597174110431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597174110431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -217,6 +235,16 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ShippingCharges.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Salary.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
